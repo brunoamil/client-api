@@ -1,8 +1,9 @@
 {
-  "collectionName": "components_page_section_aboutuses",
+  "collectionName": "components_page_section_aboutus",
   "info": {
     "name": "sectionAboutUs",
-    "icon": "user-astronaut"
+    "icon": "user-astronaut",
+    "description": ""
   },
   "options": {},
   "attributes": {
